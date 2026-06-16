@@ -37,4 +37,4 @@ Aurora is currently in beta and may contain bugs or incomplete features. Feedbac
 
 Support Development
 
-Aurora is free to use. If you enjoy the app and would like to support future development, optional tips are available.
+Aurora is free to use. If you enjoy the app and would like to support future development, optional tips are available on GumRoad.
