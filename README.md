@@ -15,13 +15,7 @@ Features
 * Launch at login support
 * Native macOS OSD suppression
 * Apple Silicon support
-
-Known Issues
-
-* External keyboard brightness controls may bypass Aurora and use the system OSD
-* Menu bar text may clip in certain configurations
-* Liquid Glass opacity controls are currently non-functional
-* Brightness HUD may occasionally fail to appear
+  
 
 Planned Features
 
